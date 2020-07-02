@@ -1,0 +1,22 @@
+# FILE:jikkenn 1.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl コンクリート_-_04
+Ka 0.491647 0.491647 0.491647
+Kd 0.663333 0.663333 0.663333
+Ks 0.0759216 0.0759216 0.0759216
+illum 2
+Ns 0.36
+map_Ka jikkenn 1_テクスチャ\コンクリート - ライト crbn -opt.jpg
+map_Kd jikkenn 1_テクスチャ\コンクリート - ライト crbn -opt.jpg
+map_Ks jikkenn 1_テクスチャ\コンクリート - ライト crbn -opt.jpg
+newmtl GDLM3_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
